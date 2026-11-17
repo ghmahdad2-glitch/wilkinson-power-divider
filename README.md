@@ -3,7 +3,9 @@
 
 ## Project Overview
 This project was carried out during my Bachelor's studies in Electrical Engineering at Azad University of Shiraz.
+## Design Layout
 
+![Wilkinson Power Divider Layout](wilkinson_layout.png)
 The objective was to design a Wilkinson power divider using microstrip transmission lines for radio-frequency applications.
 
 ## Tools
